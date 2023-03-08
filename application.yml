@@ -1,6 +1,6 @@
 Spring:
   application:
-    name: HELLO-MINI
+    name: default-config
 
 
 eureka:
